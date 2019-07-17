@@ -22,6 +22,6 @@ function iLoveTheBeatles(n){
 
   do {
     phrase.push("I love the Beatles!")
-  } while (n < n.length);
+  } while (n < 15);
   return phrase
 }
